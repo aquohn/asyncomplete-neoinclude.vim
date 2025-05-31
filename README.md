@@ -7,9 +7,9 @@ Provide include autocompletion source for [asyncomplete.vim](https://github.com/
 ### Installing
 
 ```vim
-Plug 'Shougo/neocinclude.vim'
+Plug 'Shougo/neoinclude.vim'
 Plug 'prabirshrestha/asyncomplete.vim'
-Plug 'prabirshrestha/asyncomplete-neoinclude.vim'
+Plug 'kyouryuukunn/asyncomplete-neoinclude.vim'
 ```
 
 #### Registration
